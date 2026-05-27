@@ -29,8 +29,11 @@ This project features an interactive fixed navigation menu that dynamically chan
 
  # 🛠️ Technologies Used
 HTML5
+
 CSS3
+
 JavaScript (Vanilla JS)
+
 Font Awesome Icons
  # 🌐 Live Project
 
@@ -61,4 +64,4 @@ Web Developer
 
 🌐 Live Project: https://your-live-link-here.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn:https://www.linkedin.com/in/prince-raj-8b480b286?utm_source=share_via&utm_content=profile&utm_medium=member_android
