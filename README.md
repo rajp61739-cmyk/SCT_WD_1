@@ -57,7 +57,7 @@ Web Developer
 
 📧 Email: rajp61739@gmail.com
 
-🔗 GitHub: https://github.com/your-github-username
+🔗 GitHub: https://github.com/rajp61739-cmyk/SCT_WD_1
 
 🌐 Live Project: https://your-live-link-here.com
 
