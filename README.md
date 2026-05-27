@@ -38,7 +38,7 @@ Font Awesome Icons
  # 🌐 Live Project
 
 👉 GitHub Live Link:
-https://your-live-link-here.com
+https://rajp61739-cmyk.github.io/SCT_WD_1/
 
  # 📂 Project Structure
 Prince-Landing-Page
@@ -62,6 +62,6 @@ Web Developer
 
 🔗 GitHub: https://github.com/rajp61739-cmyk/SCT_WD_1
 
-🌐 Live Project: https://your-live-link-here.com
+🌐 Live Project: https://rajp61739-cmyk.github.io/SCT_WD_1/
 
 💼 LinkedIn:https://www.linkedin.com/in/prince-raj-8b480b286?utm_source=share_via&utm_content=profile&utm_medium=member_android
